@@ -1,0 +1,16 @@
+
+/* =========================================
+                    colors 
+   ========================================= */
+
+   $colors: (
+    primary:            #E6007E,
+    secondary:          #ffed00,
+    -black:             black,
+    -white:             white
+);
+
+$primary:           map-get($colors, "primary");
+$secondary:         map-get($colors, "secondary");
+$black:             map-get($colors, "-black");
+$white:             map-get($colors, "-white");

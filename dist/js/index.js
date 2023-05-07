@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("%cHello World!","color: white;background-color: #E6007E;font-size: 16px;padding: 10px;")})();
